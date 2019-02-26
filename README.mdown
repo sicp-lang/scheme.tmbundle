@@ -1,3 +1,18 @@
+# Introduction
+
+This repository contains a TextMate bundle that provides the definitions for the
+source code highlighting on Github.
+
+It's a fork of  https://github.com/textmate/scheme.tmbundle which isn't maintained.
+
+# Changes
+
+- Square brackets are no longer colored as errors
+
+
+# ----- Old Readme Below -----
+
+
 # Installation
 
 You can install this bundle in TextMate by opening the preferences and going to the bundles tab. After installation it will be automatically updated for you.
